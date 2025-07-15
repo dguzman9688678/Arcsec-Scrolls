@@ -1,6 +1,6 @@
 #  THE TXT SCROLL OF ODIN
 
-**Author**: Daniel Guzman (ODIN, the First Architect)  
+**Author**: Daniel Guzman  
 **Creation Date**: 2025-07-14 19:00 UTC  
 **ARCSEC Seal**: DG-ULTIMATE-001  
 **Integrity Status**: Immutable  
@@ -62,6 +62,6 @@ This project is the foundation of a new AI creation philosophy:
 
 ## Usage
 
-This project is not installed. It is **invoked**.
+**invoked**.
 
-To awaken the scroll:
+
